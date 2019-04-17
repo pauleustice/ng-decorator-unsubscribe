@@ -16,7 +16,7 @@ Terminal:
 Add the @HandleSubscriptions decorator to your component and ensure you add the class property `addSubscriptions`.
 
 ```
-import { FnAddSubs, HandleSubs } from 'ng-handle-subscriptions';
+import { FnAddSubs, HandleSubscriptions } from 'ng-handle-subscriptions';
 
 @HandleSubscriptions
 @Component({
