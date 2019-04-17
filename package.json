@@ -1,0 +1,8 @@
+{
+  "name": "ng-handle-subscriptions",
+  "version": "1.0.0",
+  "dependencies": {
+    "@angular/core": "^7.2.13",
+    "rxjs": "^6.4.0"
+  }
+}
